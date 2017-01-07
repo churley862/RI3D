@@ -12,6 +12,8 @@
 package org.usfirst.frc2017.RI3D;
 
 import org.usfirst.frc2017.RI3D.commands.*;
+
+import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 
